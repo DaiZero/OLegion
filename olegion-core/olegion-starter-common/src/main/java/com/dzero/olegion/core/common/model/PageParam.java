@@ -7,6 +7,9 @@ import lombok.Data;
 
 import java.io.Serializable;
 
+/**
+ * 分页参数
+ */
 @Data
 public class PageParam  implements Serializable {
     private static final Long PAGE_NO = 1L;

@@ -1,4 +1,4 @@
-package com.dzero.olegion.core.common.api;
+package com.dzero.olegion.core.common.model;
 
 import lombok.Data;
 
@@ -6,7 +6,7 @@ import java.io.Serial;
 import java.io.Serializable;
 
 @Data
-public class ResponseResult<T> implements Serializable {
+public class RspResult<T> implements Serializable {
     @Serial
     private static final long serialVersionUID = 1L;
 

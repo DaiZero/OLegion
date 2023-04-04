@@ -6,6 +6,11 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 分页结果
+ *
+ * @param <T> 分页数据类型
+ */
 @Data
 public class PageResult<T> implements Serializable {
     private List<T> list;
