@@ -3,17 +3,19 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.dzero</groupId>
+        <groupId>com.dzero.olegion</groupId>
         <artifactId>olegion-cloud</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <name>olegion-core</name>
     <artifactId>olegion-core</artifactId>
-    <description>olegion-core</description>
+    <name>olegion 核心功能模块</name>
+    <description>olegion 核心功能模块</description>
     <packaging>pom</packaging>
     <modules>
         <module>olegion-starter-common</module>
         <module>olegion-starter-redis</module>
+        <module>olegion-starter-log</module>
+        <module>olegion-starter-job</module>
     </modules>
     <properties>
         <java.version>17</java.version>

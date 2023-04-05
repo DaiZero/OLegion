@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.dzero</groupId>
+    <groupId>com.dzero.olegion</groupId>
     <artifactId>olegion-cloud</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
@@ -27,7 +27,7 @@
         <spring.cloud.version>2022.0.1</spring.cloud.version>
         <spring.cloud.alibaba.version>2022.0.0.0-RC1</spring.cloud.alibaba.version>
         <mapstruct.version>1.5.3.Final</mapstruct.version>
-        <easyexcel.version>3.2.1</easyexcel.version>
+        <easyexcel.version>3.1.4</easyexcel.version>
         <springdoc-openapi.version>2.0.4</springdoc-openapi.version>
     </properties>
     <!-- 依赖（所有模块） -->
