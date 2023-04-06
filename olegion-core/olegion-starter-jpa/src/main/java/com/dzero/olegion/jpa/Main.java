@@ -1,4 +1,4 @@
-package com.dzero.olegion;
+package com.dzero.olegion.jpa;
 
 public class Main {
     public static void main(String[] args) {
