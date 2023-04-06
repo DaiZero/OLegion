@@ -16,6 +16,8 @@
         <module>olegion-starter-redis</module>
         <module>olegion-starter-log</module>
         <module>olegion-starter-job</module>
+        <module>olegion-starter-security</module>
+        <module>olegion-starter-jpa</module>
     </modules>
     <properties>
         <java.version>17</java.version>
