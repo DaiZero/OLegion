@@ -17,6 +17,7 @@
         <module>olegion-starter-log</module>
         <module>olegion-starter-job</module>
         <module>olegion-starter-security</module>
+        <module>olegion-starter-seata</module>
         <module>olegion-starter-jpa</module>
         <module>olegion-starter-mq</module>
     </modules>

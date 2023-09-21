@@ -18,10 +18,6 @@
     </properties>
 
     <dependencies>
-        <dependency>
-            <groupId>com.dzero.olegion</groupId>
-            <artifactId>olegion-starter-common</artifactId>
-        </dependency>
     </dependencies>
 
 </project>
