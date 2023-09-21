@@ -17,6 +17,7 @@
     <description>olegion 微服务平台</description>
     <modules>
         <module>olegion-core</module>
+        <module>olegion-gateway</module>
     </modules>
 
     <properties>

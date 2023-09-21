@@ -1,0 +1,7 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: olegion-gateway-server
+  profiles:
+    active: dev
